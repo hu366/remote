@@ -1,0 +1,4 @@
+# Example only. Install manually; do not overwrite an existing ~/.tmux.conf.
+set -g history-limit 10000
+set -g mouse on
+set -s escape-time 0
